@@ -7,5 +7,5 @@
 https://replit.com/talk/learn/How-to-keep-your-discord-bot-running-247-without-the-Hacker-Plan/138922
 
 ## Image
-![Discord Bot](C:/Users/david/Desktop/DiscordBot.PNG)
+![Discord Bot](Images/DiscordBot.PNG)
 
