@@ -4,14 +4,14 @@
 - 10.0.0.0/24
 - a private part of AWS that allows you to use AWS resources.
 
-![VPC](Images\Screenshot 2022-10-04 214443.png)
+! [VPC](Images/Screenshot 2022-10-04 214443.png)
 
 ## Subnet
 - Kajuna-subnet
 - 10.0.0.0/28
 - range of IP addresses in Kajuna-VPC
 
-![Subnet](Project2/Images/Screenshot 2022-10-04 214954.png)
+![Subnet](Images/Screenshot 2022-10-04 214954.png)
 
 ## Internet Gateway
 - Kajuna-Gateway
