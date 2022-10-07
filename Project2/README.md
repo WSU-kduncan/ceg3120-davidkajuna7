@@ -11,25 +11,25 @@
 - 10.0.0.0/28
 - range of IP addresses in Kajuna-VPC
 
-![Subnet](Images/Screenshot 2022-10-04 214954.png)
+![Subnet](Images/Screenshot2022-10-04214954.png)
 
 ## Internet Gateway
 - Kajuna-Gateway
 - Allows to communicate to public internet
 
-![Internet Gateway](Images/Screenshot 2022-10-05 235258.png)
+![Internet Gateway](Images/Screenshot2022-10-05235258.png)
 
 ## Route Table
 - Kajuna-route
 - set of rules to determine network traffic
 
-![Route](Images/Screenshot 2022-10-06 000654.png)
+![Route](Images/Screenshot2022-10-06000654.png)
 
 ## Security Group
 - Kajuna-SecurityGroup
 - controls traffic for VPC instance
 
-![Security Group](Images/Screenshot 2022-10-06 215708.png)
+![Security Group](Images/Screenshot2022-10-06215708.png)
 
 # Part 2
 1. Ubuntu AMI
@@ -41,8 +41,8 @@
 6. Associate VPC security group with instance by adding rules for traffic.
 7.Allocate and associate elastic IP address.
 
-![Instance](Images/Screenshot 2022-10-06 025849.png)
+![Instance](Images/Screenshot2022-10-06025849.png)
 
 9. sudo hostnamectl set-hostname Kajuna-AMI
 
-![SSH](Images/Screenshot 2022-10-06 025430.png)
+![SSH](Images/Screenshot2022-10-06025430.png)
