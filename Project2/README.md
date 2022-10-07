@@ -4,7 +4,7 @@
 - 10.0.0.0/24
 - a private part of AWS that allows you to use AWS resources.
 
-![VPC](Images/Screenshot 2022-10-04 214443.png)
+![VPC] (Images/Screenshot 2022-10-04 214443.png)
 
 ## Subnet
 - Kajuna-subnet
