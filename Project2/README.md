@@ -11,7 +11,7 @@
 - 10.0.0.0/28
 - range of IP addresses in Kajuna-VPC
 
-![Subnet](Images/Screenshot 2022-10-04 214954.png)
+![Subnet](Project2/Images/Screenshot 2022-10-04 214954.png)
 
 ## Internet Gateway
 - Kajuna-Gateway
